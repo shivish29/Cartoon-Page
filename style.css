@@ -1,0 +1,43 @@
+*{margin:0px;}
+body{
+text-align: center;
+font-family: 'Balsamiq sans',cursive;
+}
+nav{
+display:flex;
+justify-content: center;
+color: black;
+}
+header{
+background:url('https://i1.faceprep.in/cartoon-background.png');
+background repeat:no-repeat;
+background:cover;
+padding:200px;
+color:white;
+}
+a{
+margin:20px;
+color: black;
+text-decoration: none;
+}
+h1{
+font-size: 6em;
+letter-spacing: 10px;
+}
+h2{
+font-size: 4em;
+}
+h3{font-size: 2em;}
+h4{font-size: 1.5em;}
+section ,p,img
+{padding: 10px;}
+.cartoon
+{   padding:70px;
+    color: white;
+    text-align: center;}
+#tomjerry{background-color:#f8c238;}
+#shinchan{background-color: #FB4F93;}
+#pokemon{background-color: #00C7DA;}
+p{font-style:italic;}
+    img{border: 5px solid white;}
+    
